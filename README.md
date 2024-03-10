@@ -1,8 +1,11 @@
-# flip_card_reviewer
+# Flip Card Reviewer
 
 A simple reviewer with flipping card with question and answer
 
-## Getting Started
+https://github.com/adriane-macer/flip_card_reviewer/assets/25916444/0168533e-85fa-4c91-a226-62845e386c89
+
+![Screenshot_1710086031](https://github.com/adriane-macer/flip_card_reviewer/assets/25916444/4f77146d-1dab-4542-9223-2cdfc348f3eb)
+
 
 ## TODO
 - Edit Questionnaire
@@ -13,4 +16,5 @@ A simple reviewer with flipping card with question and answer
 - Add Subject
 - Add favorite
 - Implement done item question
-- add picture as a question
+- Add picture as a question
+- Implement text to speech
