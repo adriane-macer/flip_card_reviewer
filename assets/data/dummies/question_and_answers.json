@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "question": "What are the three states of matter?",
+      "answer": "The three states of matter are solid, liquid, and gas."
+    },
+    {
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll, carbon dioxide, and water."
+    },
+    {
+      "question": "How does a plant absorb water?",
+      "answer": "A plant absorbs water through its roots, which have tiny root hairs that increase the surface area for absorption. Water moves from the soil into the roots through osmosis and then travels up through the stem to the leaves and other parts of the plant."
+    },
+    {
+      "question": "What is the difference between a conductor and an insulator?",
+      "answer": "A conductor is a material that allows electricity to flow through it easily, while an insulator is a material that does not allow electricity to flow through it easily. Examples of conductors include metals like copper and aluminum, while examples of insulators include rubber and plastic."
+    },
+    {
+      "question": "What causes the phases of the moon?",
+      "answer": "The phases of the moon are caused by the changing positions of the moon, Earth, and the sun. As the moon orbits Earth, different portions of its illuminated surface are visible from Earth, resulting in the different phases such as new moon, crescent, quarter, gibbous, and full moon."
+    },
+    {
+      "question": "How does a seed germinate?",
+      "answer": "A seed germinates when it absorbs water, causing it to swell and soften the seed coat. This triggers the embryo inside the seed to start growing and developing into a new plant. Factors like temperature, moisture, and light influence the germination process."
+    },
+    {
+      "question": "What is a food chain?",
+      "answer": "A food chain is a series of organisms where each organism is eaten by the next one in the chain. It shows the flow of energy from one organism to another."
+    },
+    {
+      "question": "What is the role of the heart in the human body?",
+      "answer": "The heart is responsible for pumping blood throughout the body. It receives oxygen-poor blood from the body and pumps it to the lungs to pick up oxygen. Then, it receives oxygen-rich blood from the lungs and pumps it out to the rest of the body."
+    },
+    {
+      "question": "How are fossils formed?",
+      "answer": "Fossils are formed when the remains or traces of organisms are preserved in sedimentary rock over long periods of time. This can happen through processes like burial, mineralization, and compression."
+    },
+    {
+      "question": "What is the water cycle?",
+      "answer": "The water cycle is the continuous process by which water evaporates from the Earth's surface, forms clouds, precipitates as rain or snow, and then flows back into the oceans, rivers, and lakes. It involves processes such as evaporation, condensation, precipitation, and runoff."
+    }
+  ]
+}
