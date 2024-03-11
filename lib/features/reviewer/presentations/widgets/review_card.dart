@@ -17,16 +17,32 @@ class ReviewCard extends StatelessWidget {
           color: isFlipped ? Colors.blue : primaryColor,
           borderRadius: BorderRadius.circular(10),
         ),
-        child: Center(
-          child: Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Text(
-              message,
-              textAlign: TextAlign.center,
-              style: const TextStyle(
-                  color: Colors.white, fontSize: 24),
+        child: Stack(
+          children: [
+            Positioned(
+              top: 8,
+              left: 8,
+              child: !isFlipped
+                  ? const Icon(
+                      Icons.question_mark,
+                      color: Colors.white,
+                    )
+                  : const Text(
+                      "Answer",
+                      style: TextStyle(color: Colors.white),
+                    ),
             ),
-          ),
+            Center(
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  message,
+                  textAlign: TextAlign.center,
+                  style: const TextStyle(color: Colors.white, fontSize: 24),
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );
