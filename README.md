@@ -8,13 +8,13 @@ https://github.com/adriane-macer/flip_card_reviewer/assets/25916444/0168533e-85f
 
 
 ## TODO
-- Edit Questionnaire
-- Flip card
-- Adding question
-- Removing question
-- Saving the question
-- Add Subject
-- Add favorite
-- Implement done item question
-- Add picture as a question
-- Implement text to speech
+- [x] Flip card
+- [ ] Edit Questionnaire
+- [ ] Adding question
+- [ ] Removing question
+- [ ] Saving the question
+- [ ] Add Subject
+- [ ] Add favorite
+- [ ] Implement done item question
+- [ ] Add picture as a question
+- [ ] Implement text to speech
